@@ -1,13 +1,6 @@
-![ELYSEE KEVIN KOUA](banner00021.jpg)
+![ELYSEE KEVIN KOUA](banner.png)
 
 ---
-
-<style>
-  td {
-    border: 2px solid white;
-    padding: 20px;
-  }
-</style>
 
 <br />
 
@@ -64,41 +57,41 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/python.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/python.svg" alt="PYTHON" width="65" height="65" />
       <br>
       PYTHON
     </td>
     <td align="center" width="100">
-      <img src="./assets/javascript.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/javascript.svg" alt="JAVASCRIPT" width="65" height="65" />
       <br>
       JAVASCRIPT
     </td>
     <td align="center" width="100">
-      <img src="./assets/Bash_dark.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/bash.svg" alt="BASH" width="65" height="65" />
       <br>
       BASH
     </td>
     <td align="center" width="100">
-      <img src="./assets/html.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/html.svg" alt="HTML" width="65" height="65" />
       <br>
       HTML
     </td>
     <td align="center" width="100">
-      <img src="./assets/css.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/css.svg" alt="CSS" width="65" height="65" />
       <br>
       CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
-      <img src="./assets/Markdown_dark.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/markdown.svg" alt="MARKDOWN" width="65" height="65" />
       <br>
       MARKDOWN
     </td>
     <td align="center" width="100">
-      <img src="./assets/sass.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/sass.svg" alt="SCSS" width="65" height="65" />
       <br>
       SCSS
+    </td>
+    <td align="center" width="100">
     </td>
   </tr>
 
@@ -110,51 +103,63 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/django.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/django.svg" alt="DJANGO" width="65" height="65" />
       <br>
-      Django
+      DJANGO
     </td>
     <td align="center" width="100">
-      <img src="./assets/odoo.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/odoo.svg" alt="ODOO" width="65" height="65" />
       <br>
-      Odoo
+      ODOO
     </td>
     <td align="center" width="100">
-      <img src="./assets/Flask_dark.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/flask.svg" alt="FLASK" width="65" height="65" />
       <br>
-      Flask
+      FLASK
     </td>
     <td align="center" width="100">
-      <img src="./assets/fastapi.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/fastapi.svg" alt="FASTAPI" width="65" height="65" />
       <br>
-      FastAPI
+      FASTAPI
     </td>
     <td align="center" width="100">
-      <img src="./assets/vue.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/vue.svg" alt="VUEJS" width="65" height="65" />
       <br>
-      VueJS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="./assets/graphql.svg" alt="JavA" width="65" height="65" />
-      <br>
-      GraphQL
+      VUEJS
     </td>
     <td align="center" width="100">
-      <img src="./assets/rest-api.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/graphql.svg" alt="GRAPHQL" width="65" height="65" />
+      <br>
+      GRAPHQL
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/rest-api.svg" alt="REST API" width="65" height="65" />
       <br>
       REST API
     </td>
     <td align="center" width="100">
-      <img src="./assets/pytest.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/pytest.svg" alt="PYTEST" width="65" height="65" />
       <br>
-      Pytest
+      PYTEST
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="./assets/selenium.svg" alt="SELENIUM" width="65" height="65" />
+      <br>
+      SELENIUM
     </td>
     <td align="center" width="100">
-      <img src="./assets/selenium.svg" alt="JavA" width="65" height="65" />
-      <br>
-      Selenium
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
@@ -168,24 +173,33 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/huggingface.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/huggingface.svg" alt="FACE" width="65" height="65" />
       <br>
       HUGGING FACE
     </td>
     <td align="center" width="100">
-      <img src="./assets/Ollama_light.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/Ollama.svg" alt="OLLAMA" width="65" height="65" />
       <br>
       OLLAMA
     </td>
     <td align="center" width="100">
-      <img src="./assets/n8n.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/openwebui.svg" alt="OPEN WEBUI" width="65" height="65" />
+      <br>
+      OPEN WEBUI
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/n8n.svg" alt="N8N" width="65" height="65" />
       <br>
       N8N
     </td>
     <td align="center" width="100">
-      <img src="./assets/kafka.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/kafka.svg" alt="KAFKA" width="65" height="65" />
       <br>
       KAFKA
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
@@ -199,24 +213,30 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/ansible.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/ansible.svg" alt="ANSIBLE" width="65" height="65" />
       <br>
-      Ansible
+      ANSIBLE
     </td>
     <td align="center" width="100">
-      <img src="./assets/terraform.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/terraform.svg" alt="TERRAFORM" width="65" height="65" />
       <br>
-      Terraform
+      TERRAFORM
     </td>
     <td align="center" width="100">
-      <img src="./assets/docker.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/docker.svg" alt="DOCKER" width="65" height="65" />
       <br>
-      Docker
+      DOCKER
     </td>
     <td align="center" width="100">
-      <img src="./assets/kubernetes.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/kubernetes.svg" alt="KUBERNETES" width="65" height="65" />
       <br>
-      Kubernetes
+      KUBERNETES
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
@@ -230,29 +250,35 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/ubuntu.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/ubuntu.svg" alt="UBUNTU" width="65" height="65" />
       <br>
-      Ubuntu
+      UBUNTU
     </td>
     <td align="center" width="100">
-      <img src="./assets/windows.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/windows.svg" alt="WINDOWS" width="65" height="65" />
       <br>
-      Windows
+      WINDOWS
     </td>
     <td align="center" width="100">
-      <img src="./assets/Apple-d.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/apple.svg" alt="MACOS" width="65" height="65" />
       <br>
-      MacOS
+      MACOS
     </td>
     <td align="center" width="100">
-      <img src="./assets/proxmox.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/proxmox.svg" alt="PROXMOX" width="65" height="65" />
       <br>
-      Proxmox
+      PROXMOX
     </td>
     <td align="center" width="100">
-      <img src="./assets/fedora.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/fedora.svg" alt="FEDORA" width="65" height="65" />
       <br>
-      Fedora
+      FEDORA
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
   </tr>
 
@@ -264,24 +290,30 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/aws.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/aws.svg" alt="AWS" width="65" height="65" />
       <br>
       AWS
     </td>
     <td align="center" width="100">
-      <img src="./assets/ovh.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/ovh.svg" alt="OVH" width="65" height="65" />
       <br>
       OVH
     </td>
     <td align="center" width="100">
-      <img src="./assets/digitalocean.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/digitalocean.svg" alt="DIGITALOCEAN" width="65" height="65" />
       <br>
-      DigitalOcean
+      DIGITALOCEAN
     </td>
     <td align="center" width="100">
-      <img src="./assets/cloudflare.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/cloudflare.svg" alt="CLOUDFLARE" width="65" height="65" />
       <br>
-      Cloudflare
+      CLOUDFLARE
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
@@ -295,24 +327,30 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/postgresql.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/postgresql.svg" alt="POSTGRESQL" width="65" height="65" />
       <br>
-      PostgreSQL
+      POSTGRESQL
     </td>
     <td align="center" width="100">
-      <img src="./assets/mysql.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/mysql.svg" alt="MYSQL" width="65" height="65" />
       <br>
-      MySQL
+      MYSQL
     </td>
     <td align="center" width="100">
-      <img src="./assets/sqlite.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/sqlite.svg" alt="SQLITE" width="65" height="65" />
       <br>
-      SQLite
+      SQLITE
     </td>
     <td align="center" width="100">
-      <img src="./assets/redis.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/redis.svg" alt="REDIS" width="65" height="65" />
       <br>
-      Redis
+      REDIS
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
@@ -326,84 +364,87 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/elasticsearch.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/elasticsearch.svg" alt="ELASTICSEARCH" width="65" height="65" />
       <br>
-      Elasticsearch
+      ELASTICSEARCH
     </td>
     <td align="center" width="100">
-      <img src="./assets/kibana.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/kibana.svg" alt="KIBANA" width="65" height="65" />
       <br>
-      Kibana
+      KIBANA
     </td>
     <td align="center" width="100">
-      <img src="./assets/beats.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/beats.svg" alt="ELASTIC BEATS" width="65" height="65" />
       <br>
-      Elastic Beats
+      BEATS
     </td>
     <td align="center" width="100">
-      <img src="./assets/agent.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/agents.svg" alt="ELASTIC AGENTS" width="65" height="65" />
       <br>
-      Elastic Agents
+      AGENTS
     </td>
     <td align="center" width="100">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="./assets/grafana.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/grafana.svg" alt="GRAFANA" width="65" height="65" />
       <br>
-      Grafana
+      GRAFANA
     </td>
     <td align="center" width="100">
-      <img src="./assets/loki.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/loki.svg" alt="GRAFANA LOKI" width="65" height="65" />
       <br>
-      Loki
+      LOKI
     </td>
     <td align="center" width="100">
-      <img src="./assets/mimir.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/mimir.svg" alt="GRAFANA MIMIR" width="65" height="65" />
       <br>
-      Mimir
+      MIMIR
     </td>
     <td align="center" width="100">
-      <img src="./assets/tempo.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/tempo.svg" alt="GRAFANA TEMPO" width="65" height="65" />
       <br>
-      Tempo
-    </td>
-    <td align="center" width="100">
+      TEMPO
     </td>
   </tr>
 
   <tr>
       <td align="left" colspan="5" width="100">
         <br/>
-        COLLABORATION & COMMUNAUTÉS
+        <!-- COLLABORATION & COMMUNAUTÉS -->
       </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/gitHub.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/git.svg" alt="GIT" width="65" height="65" />
       <br>
-      GitHub
+      GIT
     </td>
     <td align="center" width="100">
-      <img src="./assets/gitlab.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/gitHub.svg" alt="GITHUB" width="65" height="65" />
       <br>
-      GitLab
+      GITHUB
     </td>
     <td align="center" width="100">
-      <img src="./assets/stackoverflow.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/gitlab.svg" alt="GITLAB" width="65" height="65" />
       <br>
-      StackOverflow
+      GITLAB
     </td>
     <td align="center" width="100">
-      <img src="./assets/discord.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/stackoverflow.svg" alt="STACKOVERFLOW" width="65" height="65" />
       <br>
-      Discord
+      STACKOVERFLOW
     </td>
     <td align="center" width="100">
-      <img src="./assets/reddit.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/discord.svg" alt="DISCORD" width="65" height="65" />
       <br>
-      Reddit
+      DISCORD
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/reddit.svg" alt="REDDIT" width="65" height="65" />
+      <br>
+      REDDIT
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
   </tr>
 
@@ -415,29 +456,35 @@ print(profile.get_presentation())
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="./assets/vscode.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/vscode.svg" alt="VS CODE" width="65" height="65" />
       <br>
-      VS Code
+      VS CODE
     </td>
     <td align="center" width="100">
-      <img src="./assets/pycharm.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/pycharm.svg" alt="PYCHARM" width="65" height="65" />
       <br>
-      PyCharm
+      PYCHARM
     </td>
     <td align="center" width="100">
-      <img src="./assets/postman.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/postman.svg" alt="POSTMAN" width="65" height="65" />
       <br>
-      Postman
+      POSTMAN
     </td>
     <td align="center" width="100">
-      <img src="./assets/canva.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/canva.svg" alt="CANVA" width="65" height="65" />
       <br>
-      Canva
+      CANVA
     </td>
     <td align="center" width="100">
-      <img src="./assets/obsidian.svg" alt="JavA" width="65" height="65" />
+      <img src="./assets/obsidian.svg" alt="OBSIDIAN" width="65" height="65" />
       <br>
-      Obsidian
+      OBSIDIAN
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
   </tr>
 </table>
@@ -446,12 +493,14 @@ print(profile.get_presentation())
 
 ---
 
-<details>
+<details align="center">
     <summary><h2>⚡ MY GITHUB STATS</h2></summary>
     <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=elysee-01&hide_border=false&theme=dracula" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysee-01&langs_count=8&layout=compact&hide_border=false&theme=dracula" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elysee-01&theme=dracula" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=elysee-01&hide_border=false&theme=dracula" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysee-01&langs_count=8&layout=compact&hide_border=false&theme=dracula" />
     </figure>
 </details>
 
@@ -461,11 +510,11 @@ print(profile.get_presentation())
 
 <br/>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/elyseekoua/" title="My LinkedIn Profile">
+<div align="center">
+  <a style="text-decoration: none" href="https://www.linkedin.com/in/elyseekoua/" title="My LinkedIn Profile">
     <img src="https://img.shields.io/badge/Linkedin - Elysee Kevin KOUA-blue?logo=linkedin&logoColor=white" alt="Linkedin - Elysee Kevin KOUA">
   </a>
-  <a href="https://www.codingame.com/profile/22eb2c9be8f4df30ce3e730439abedde1074114" title="My Codingame Profile">
+  <a style="text-decoration: none" href="https://www.codingame.com/profile/22eb2c9be8f4df30ce3e730439abedde1074114" title="My Codingame Profile">
     <img src="https://img.shields.io/badge/Codingame - Elysee Kevin KOUA-blue?logo=codingame&logoColor=blue" alt="Linkedin - Elysee Kevin KOUA">
   </a>
 </div>
