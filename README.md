@@ -38,8 +38,12 @@ class MyProfile:
 
 profile = MyProfile(
     name="Elysee KOUA",
-    passions=["programming", "homelabbing"],
-    approaches=["discovering new solutions", "testing and implementing them", "building reliable systems"]
+    passions=["Programming", "Homelabbing"],
+    approaches=[
+        "Discovering new solutions",
+        "Testing and implementing them",
+        "Building reliable systems"
+    ]
 )
 
 print(profile.get_presentation())
