@@ -95,8 +95,6 @@ print(profile.get_presentation())
       <br>
       SCSS
     </td>
-    <td align="center" width="100">
-    </td>
   </tr>
 
   <tr>
@@ -141,21 +139,17 @@ print(profile.get_presentation())
       <br>
       REST API
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="./assets/pytest.svg" alt="PYTEST" width="65" height="65" />
       <br>
       PYTEST
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="./assets/selenium.svg" alt="SELENIUM" width="65" height="65" />
       <br>
       SELENIUM
-    </td>
-    <td align="center" width="100">
-    </td>
-    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
@@ -205,8 +199,6 @@ print(profile.get_presentation())
     </td>
     <td align="center" width="100">
     </td>
-    <td align="center" width="100">
-    </td>
   </tr>
 
   <tr>
@@ -242,8 +234,6 @@ print(profile.get_presentation())
     </td>
     <td align="center" width="100">
     </td>
-    <td align="center" width="100">
-    </td>
   </tr>
 
   <tr>
@@ -264,7 +254,7 @@ print(profile.get_presentation())
       WINDOWS
     </td>
     <td align="center" width="100">
-      <img src="./assets/apple.svg" alt="MACOS" width="65" height="65" />
+      <img src="./assets/apple-macos.svg" alt="MACOS" width="65" height="65" />
       <br>
       MACOS
     </td>
@@ -277,8 +267,6 @@ print(profile.get_presentation())
       <img src="./assets/fedora.svg" alt="FEDORA" width="65" height="65" />
       <br>
       FEDORA
-    </td>
-    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
@@ -312,8 +300,6 @@ print(profile.get_presentation())
       <img src="./assets/cloudflare.svg" alt="CLOUDFLARE" width="65" height="65" />
       <br>
       CLOUDFLARE
-    </td>
-    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
@@ -356,8 +342,6 @@ print(profile.get_presentation())
     </td>
     <td align="center" width="100">
     </td>
-    <td align="center" width="100">
-    </td>
   </tr>
 
   <tr>
@@ -367,26 +351,6 @@ print(profile.get_presentation())
       </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="./assets/elasticsearch.svg" alt="ELASTICSEARCH" width="65" height="65" />
-      <br>
-      ELASTICSEARCH
-    </td>
-    <td align="center" width="100">
-      <img src="./assets/kibana.svg" alt="KIBANA" width="65" height="65" />
-      <br>
-      KIBANA
-    </td>
-    <td align="center" width="100">
-      <img src="./assets/beats.svg" alt="ELASTIC BEATS" width="65" height="65" />
-      <br>
-      BEATS
-    </td>
-    <td align="center" width="100">
-      <img src="./assets/agents.svg" alt="ELASTIC AGENTS" width="65" height="65" />
-      <br>
-      AGENTS
-    </td>
     <td align="center" width="100">
       <img src="./assets/grafana.svg" alt="GRAFANA" width="65" height="65" />
       <br>
@@ -406,6 +370,40 @@ print(profile.get_presentation())
       <img src="./assets/tempo.svg" alt="GRAFANA TEMPO" width="65" height="65" />
       <br>
       TEMPO
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/elasticsearch.svg" alt="ELASTICSEARCH" width="65" height="65" />
+      <br>
+      ELASTICSEARCH
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/kibana.svg" alt="KIBANA" width="65" height="65" />
+      <br>
+      KIBANA
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/beats.svg" alt="ELASTIC BEATS" width="65" height="65" />
+      <br>
+      BEATS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="./assets/agents.svg" alt="ELASTIC AGENTS" width="65" height="65" />
+      <br>
+      AGENTS
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
   </tr>
 
@@ -448,8 +446,6 @@ print(profile.get_presentation())
     </td>
     <td align="center" width="100">
     </td>
-    <td align="center" width="100">
-    </td>
   </tr>
 
   <tr>
@@ -483,8 +479,6 @@ print(profile.get_presentation())
       <img src="./assets/obsidian.svg" alt="OBSIDIAN" width="65" height="65" />
       <br>
       OBSIDIAN
-    </td>
-    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
