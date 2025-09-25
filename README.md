@@ -6,6 +6,12 @@
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=elysee-01&label=Profile%20views&color=0e75b6&style=flat)
 ![PROFILE LAST UPDATED](https://img.shields.io/github/last-commit/elysee-01/elysee-01/main?label=Last%20updated&style=flat)
+<a style="text-decoration: none" href="https://www.linkedin.com/in/elyseekoua/" title="My LinkedIn Profile">
+  <img src="https://img.shields.io/badge/Linkedin - Elysee Kevin KOUA-blue?logo=linkedin&logoColor=white" alt="Linkedin - Elysee Kevin KOUA">
+</a>
+<a style="text-decoration: none" href="https://www.codingame.com/profile/22eb2c9be8f4df30ce3e730439abedde1074114" title="My Codingame Profile">
+  <img src="https://img.shields.io/badge/Codingame - Elysee Kevin KOUA-blue?logo=codingame&logoColor=blue" alt="Linkedin - Elysee Kevin KOUA">
+</a>
 
 <br />
 
@@ -506,17 +512,3 @@ print(profile.get_presentation())
 
 ---
 
-<br/>
-
-<div align="center">
-  <a style="text-decoration: none" href="https://www.linkedin.com/in/elyseekoua/" title="My LinkedIn Profile">
-    <img src="https://img.shields.io/badge/Linkedin - Elysee Kevin KOUA-blue?logo=linkedin&logoColor=white" alt="Linkedin - Elysee Kevin KOUA">
-  </a>
-  <a style="text-decoration: none" href="https://www.codingame.com/profile/22eb2c9be8f4df30ce3e730439abedde1074114" title="My Codingame Profile">
-    <img src="https://img.shields.io/badge/Codingame - Elysee Kevin KOUA-blue?logo=codingame&logoColor=blue" alt="Linkedin - Elysee Kevin KOUA">
-  </a>
-</div>
-
-<br/>
-
----
